@@ -8,7 +8,7 @@ Collaborators: Chatgpt
 Other sources: Chatgpt, Gemini
 Creation date: 9/29/2026 5:00PM
 Revision date: 10/2/2026 5:00AM
-Revisions: create the file
+Revisions: add comments 
 */
 
 #include <iostream> // Includes standard I/O library
